@@ -9,11 +9,11 @@ You can learn more about my projects at [rlmoser.com](https://rlmoser.com/) or m
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=white&color=2ba8bb)
 ![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logoColor=white&color=2ba8bb)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=white&color=2ba8bb)
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html&logoColor=white&color=2ba8bb)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=white&color=2ba8bb)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=white&color=2ba8bb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logoColor=white&logo=javascript&color=2ba8bb)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=white&color=2ba8bb)
 ![Affinity](https://img.shields.io/badge/-Affinity_Designer-000?style=for-the-badge&logo=affinity-designer&logoColor=white&color=2ba8bb)
 
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=rlmoser99&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=rlmoser99&show_icons=true&title_color=6ecfde&text_color=ffffff&icon_color=6ecfde&bg_color=333333)](https://github.com/anuraghazra/github-readme-stats)
