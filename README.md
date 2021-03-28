@@ -1,5 +1,5 @@
-<img src="img/rlm-logo-github.png" alt="rlm logo" align="right" width=auto height="200px"/>
 # Hello, World!
+<img src="img/rlm-logo-github.png" alt="rlm logo" align="right" width=auto height="200px"/><br>
 I'm Rachel Moser, a Ruby on Rails Developer that highly values testing. I spend my time learning new tools to add to my toolbox and maintaining [The Odin Project](https://www.theodinproject.com) an open source, project-based web development curriculum.
 
 ## Learn More
@@ -17,4 +17,4 @@ You can learn more about my projects at [rlmoser.com](https://rlmoser.com/) or m
 ![Affinity](https://img.shields.io/badge/-Affinity_Designer-000?style=flat&logo=affinity-designer&logoColor=white&color=2ba8bb)
 
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=rlmoser99&show_icons=true&title_color=333333&text_color=ffffff&icon_color=6ecfde&bg_color=2ba8bb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=rlmoser99&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=6b6b6b&bg_color=30,2ba8bb,6ecfde&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
