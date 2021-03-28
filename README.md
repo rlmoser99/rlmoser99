@@ -1,4 +1,4 @@
-<img src="img/rlm-logo-dark.png" alt="rlm logo" align="right" width=auto height="200px"/><br>
+<img src="img/rlm-logo-github.png" alt="rlm logo" align="right" width=auto height="200px"/><br>
 # Hello, World!
 I'm Rachel Moser, a Ruby on Rails Developer that highly values testing. I spend my time learning new tools to add to my toolbox and maintaining [The Odin Project](https://www.theodinproject.com) an open source, project-based web development curriculum.
 
