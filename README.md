@@ -17,4 +17,4 @@ You can learn more about my projects at [rlmoser.com](https://rlmoser.com/) or m
 ![Affinity](https://img.shields.io/badge/-Affinity_Designer-000?style=flat&logo=affinity-designer&logoColor=white&color=2ba8bb)
 
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=rlmoser99&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=6b6b6b&bg_color=30,2ba8bb,6ecfde&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=rlmoser99&show_icons=true&title_color=540C6A&text_color=ffffff&icon_color=540C6A&bg_color=2ba8bb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
