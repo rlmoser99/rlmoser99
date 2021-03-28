@@ -1,4 +1,5 @@
 # Hello, World!
+<img src="img/rlm-logo-github.png" alt="rlm logo" align="right" width=auto height="150px"/><br>
 I'm Rachel Moser, a Ruby on Rails Developer that highly values testing. I spend my time learning new tools to add to my toolbox and maintaining [The Odin Project](https://www.theodinproject.com) an open source, project-based web development curriculum.
 
 ## Learn More
